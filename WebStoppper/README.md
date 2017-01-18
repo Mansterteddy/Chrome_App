@@ -9,5 +9,10 @@ Nowadays, there are a lot of interesting websites, such as zhihu, acfun, bilibil
 
 ## How to use it?
 
+下载程序，将其放于文件夹中。
 
+在chrome浏览器中，打开更多选项，选择更多工具，扩展程序。
 
+选择加载已解压的扩展程序，选择下载文件对应的目录。
+
+此时chrome右上角会出现一个图标，点击图标—选项，即可使用。
